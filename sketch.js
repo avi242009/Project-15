@@ -94,8 +94,8 @@ function draw() {
       according to END state*/  
       // // moving ground
       // scene.velocityX = -3 
-      // //destroy bow
-      // bow.destroy();
+       //destroy bow
+       bow.destroy();
       // //reset the background
      //  if (scene.x < 0){
        //    scene.x = scene.width/2;
